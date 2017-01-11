@@ -1,0 +1,9 @@
+table, th, td {
+   border: 1px solid black;
+}
+.tableone{
+  margin-bottom: 20px;
+}
+.tabletwo{
+  margin-bottom: 20px;
+}
